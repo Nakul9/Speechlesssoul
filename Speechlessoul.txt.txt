@@ -1,0 +1,4 @@
+SPEECHLESSSOUL
+Description: The idea behind this project is to assist the injured stray animals by mapping a nearby NGO. The user feeds a picture of the animal in the webapp and it automatically gets mapped to the nearby NGOs along with location and injury information.
+Technologies used: HTML, CSS, Javascript, Bootstrap, jQuery, Flask, Heroku .
+Link: https://speechlesssoulsss.herokuapp.com/
